@@ -13,7 +13,7 @@ https://lnkd.in/eT-zq4pQ
 
 Projetos com Pentaho Business Analytics:
 
-Começando o sábado com mentória Luiz Santana e colegas, garrafa de café ao lado e fluxos de ETL com as ferramentas Pentaho Business Analytics e Talend. 🚀 🚀 🚀 🚀 🚀
+1-Começando o sábado com mentória Luiz Santana e colegas, garrafa de café ao lado e fluxos de ETL com as ferramentas Pentaho Business Analytics e Talend. 🚀 🚀 🚀 🚀 🚀
 ![image](https://github.com/carlosPaiva34/PlatForm/assets/73783091/2a06ead7-8e7a-42eb-821c-4a0999944e59)
 
 
