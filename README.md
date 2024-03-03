@@ -3,13 +3,15 @@ Projetos com Power BI:
 1-Sabádo de estudos emPower BI #alura
 alguns indicadores chaves de um PetShopping
 como Faturamento Anual, por Bairro,Genero e Produto
-https://lnkd.in/dWgqAihx
 ![image](https://github.com/carlosPaiva34/PlatForm/assets/73783091/49a40ace-8602-47e7-aca3-e55b1313351d)
+
+https://lnkd.in/dWgqAihx
 
 2-Semana de estudos com Power BI na Data Science Academy
 demonstração de Dashboard de vendas,Custo,margem de lucro e KPI com uma pequena base de dados ilustrativa.
-https://lnkd.in/eT-zq4pQ
 ![image](https://github.com/carlosPaiva34/PlatForm/assets/73783091/0aed1587-c040-4dad-bf0e-9c3d41858240)
+
+https://lnkd.in/eT-zq4pQ
 
 Projetos com Pentaho Business Analytics:
 
